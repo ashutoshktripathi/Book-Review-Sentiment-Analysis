@@ -141,12 +141,12 @@ After some time depending on size of data and coputatuion power the results will
 
 ### LTE250
 
-![alt text](https://git.toptal.com/screening/Ashutosh-Tripathi/-/raw/master/LTE250ClassificationReport.JPG)
+![alt text](https://raw.githubusercontent.com/ashutoshktripathi/Book-Review-Sentiment-Analysis/main/LTE250ClassificationReport.JPG)
 
 
 
 ### GT250
-![alt text](https://git.toptal.com/screening/Ashutosh-Tripathi/-/raw/master/GT25classificationReport.JPG)
+![alt text](https://raw.githubusercontent.com/ashutoshktripathi/Book-Review-Sentiment-Analysis/main/GT25classificationReport.JPG)
 
 
 
